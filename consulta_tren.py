@@ -6,8 +6,6 @@
 This scraper allows you to search for train tickets between any stations,
 for any day within the next week, and filter by train type and departure time.
 Author: Julia Orteu
-Copyright: © 2025 Julia Orteu. All rights reserved.
-License: MIT License
 Repository: https://github.com/juliaorteu/renfe-scraper
 """
 
