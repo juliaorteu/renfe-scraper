@@ -1,7 +1,11 @@
 # Renfe Train Scraper
 
 A Python tool for searching train tickets on Renfe's website with filtering options.
-![Renfe Train Scraper Demo](demo.gif)
+
+<p align="center">
+  <img src="demo.gif" width="400" alt="Renfe Scraper Demo">
+</p>
+
 
 ## Features
 
